@@ -1,1 +1,1 @@
-***<h2 style="text-align: center;">## Python Programming Hub</h2>***
+***<h2 style="text-align: center;">Text with basic formatting applied</h2>***
